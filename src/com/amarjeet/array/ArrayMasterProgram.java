@@ -108,7 +108,7 @@ public class ArrayMasterProgram {
 			}
 		}
 
-		System.out.println("total number of count: "+count);
+		System.out.println("total number of count: " + count);
 	}
 
 }
